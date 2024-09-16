@@ -1,0 +1,75 @@
+.Contacts{
+    padding-top: 100px;
+    padding-left: 150px;
+    color:#e91d63;
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: small;
+    margin-bottom: 2px;
+}
+
+.Name{
+    padding-left: 150px;
+    color: #424242;
+    font-family: "Oswald", sans-serif;
+    font-weight: 400;
+    margin-bottom: 0.5px;
+}
+
+.line{
+    margin-left: 150px;
+    padding-left: 500px;
+    background-color: #424242;
+    display:inline-block; width:50px; height: 4px;
+}
+
+.list{
+    padding-left: 220px;
+    color: #666665;
+    font-family: "Source Code Pro", monospace;
+    font-size: smaller;
+
+}
+
+.Heading{
+    color: #424242;
+    padding-left: 150px;
+    padding-top: 20px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 360;
+}
+
+.Heading-2{
+    color:#e91d63;
+    padding-left: 150px;
+    font-family: "Source Code Pro", monospace;
+}
+
+.Heading-2-topic{
+    padding-left: 150px;
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 360;
+    color: #666665;
+    margin-bottom: .5px;
+}
+
+.Sub-heading-2-topic{
+    padding-left: 150px;
+    font-size: small;
+    color: #424242
+}
+
+.list-2{
+    padding-left: 220px;
+    color: #666665;
+    font-family: "Source Code Pro", monospace;
+    font-size: smaller;
+    padding-right: 50px;
+}
+
+.Paper{
+    background-color:#f6f4f4; 
+    width: 900px;
+    margin: 0% auto;
+    height:1200px;
+    box-shadow: #393c3a 3px 3px 20px;
+}
